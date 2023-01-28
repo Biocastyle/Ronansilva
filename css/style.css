@@ -4,6 +4,11 @@
     src: url(../fonts/airstrikeexpand.ttf);
 }
 
+html{
+    transform: scale(0.8);
+}
+
+
 html,body{
     min-height: 100%;
     background-color:hsl(30, 38%, 92%);
