@@ -3,11 +3,12 @@
     font-family: Airstrike;
     src: url(../fonts/airstrikeexpand.ttf);
 }
+
 @media (max-width: 1120px) {
     html{
         transform: scale(0.8);
     }
-
+}
 html,body{
     min-height: 100%;
     background-color:hsl(30, 38%, 92%);
